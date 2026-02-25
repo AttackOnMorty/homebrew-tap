@@ -1,8 +1,8 @@
 class Vibe < Formula
-  desc "Vibe coding workspace manager — tmux + Claude Code"
+  desc "Vibe coding from anywhere, on any device, with one command"
   homepage "https://github.com/attackonmorty/vibe"
-  url "https://github.com/attackonmorty/vibe/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "f0c7662d0a10b363937292b8831462dd3355ed6f1cdb24c9649a7604a4b4a74f"
+  url "https://github.com/attackonmorty/vibe/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "04fa6d70d5fdcb6763afa66932513d46a3786ef757ebac694b23f1f4469e4285"
   license "MIT"
 
   depends_on "tmux"
